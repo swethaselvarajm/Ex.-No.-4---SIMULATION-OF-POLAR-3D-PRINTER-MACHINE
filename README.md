@@ -32,7 +32,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![Screenshot (63)](https://github.com/swethaselvarajm/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119525603/88cd5806-7730-4e62-ac56-844b27ffc998)
+![Screenshot (63)](https://github.com/swethaselvarajm/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119525603/830dd208-0a96-4aad-bd1a-7640a1e43b39)
 
 ### Name: SWETHA.S
 ### Register Number: 212222230155
